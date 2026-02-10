@@ -1,12 +1,12 @@
-# Hi, I'm Dima 👋
+## Hi! 👋
 
-I’m a C#/.NET developer in training, building strong fundamentals and learning how to write clean, structured code.
+My name is Maksym. I’m a junior C#/.NET developer in training, building strong fundamentals and learning to write clean, well-structured code.
 
 ## What am I working on?
-- Studying C# with .NET 8.0
-- Building WinForms applications
-- Developing class libraries (DLL) for academic and practice projects
-- Improving problem-solving and software design skills
+- Studying C# and the .NET 8.0 platform  
+- Building WinForms applications  
+- Developing class libraries (DLL) for academic and practical projects  
+- Improving problem-solving and software design skills  
 
 ## Tools & Technologies
 - C# / .NET 8.0  
