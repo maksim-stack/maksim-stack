@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Dima 👋
 
-<!--
-**maksim-stack/maksim-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a C#/.NET developer in training, building strong fundamentals and learning how to write clean, structured code.
 
-Here are some ideas to get you started:
+## What am I working on?
+- Studying C# with .NET 8.0
+- Building WinForms applications
+- Developing class libraries (DLL) for academic and practice projects
+- Improving problem-solving and software design skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+- C# / .NET 8.0  
+- WinForms  
+- OOP, basic SOLID principles  
+- Git & GitHub  
+
+📌 Goal: become a confident Junior .NET Developer and build useful, well-structured applications.
